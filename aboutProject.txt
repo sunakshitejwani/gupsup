@@ -8,3 +8,11 @@ WHAT WE WILL DO?
 6. Login Form 
 7. Axios
 8. Completing the project. 
+
+============
+1. Project Setup: 
+    create a new account in chatengine.io
+    install these npm packages : @ant-design, axios and react-chat-Engine
+    add chatEngine tag in app.js and pass projectid, username, usersecret 
+    create user in chatengine account
+    
