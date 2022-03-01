@@ -15,4 +15,8 @@ WHAT WE WILL DO?
     install these npm packages : @ant-design, axios and react-chat-Engine
     add chatEngine tag in app.js and pass projectid, username, usersecret 
     create user in chatengine account
-    
+    run project : chat application basic structure is setup 
+2. Adding Chat Feed 
+    add prop renderChatFeed in ChatEngine
+    add prop onNewMessage for playing sound on new message. 
+    create new component chatfeed
