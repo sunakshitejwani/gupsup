@@ -24,4 +24,6 @@ WHAT WE WILL DO?
     add the following components: 
         a. MyMessage.jsx
         b. TheirMessage.jsx
-        c. MessageForm.jsx 
+        c. MessageForm.jsx
+4. Add content in chatfeed component
+    add MyMessage and TheirMessage logic to display
